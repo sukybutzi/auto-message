@@ -1,4 +1,4 @@
-var msgs=["subChat(basicBot.chat.mehlimit, {limit: basicBot.settings.voteSkipLimit})"]; //default msgs, add as many as you like.
+var msgs=[""]; //default msgs, add as many as you like.
 var time=360; //in seconds
 var timer;
 API.on(API.CHAT_COMMAND, command);
